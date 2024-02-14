@@ -20,6 +20,7 @@
 	},
 	"type": "module",
 	"dependencies": {
+		"img-comparison-slider": "^8.0.6",
 		"sveltekit-flash-message": "^2.2.1"
 	}
 }
